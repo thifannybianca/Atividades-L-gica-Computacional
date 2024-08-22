@@ -8,8 +8,8 @@ programa {
     escreva("fora do enquanto\n")
     condicao = falso
     faca{
-      escreva("mensagem dentro do faça-enquanto\n")
+      escreva("mensagem dentro do faÃ§a-enquanto\n")
     } enquanto(condicao)
-    escreva("fora do faça-enquanto\n")
+    escreva("fora do faÃ§a-enquanto\n")
   }
 }
